@@ -1,0 +1,4 @@
+ID,Username,Email,First Name,Last Name,Phone Number,Role,Flagged
+1,admin@gmail.com,admin@gmail.com,Admin,User,9999999999,admin,False
+2,user1,user1@gmail.com,First,User,7994786735,user,True
+3,user2,user2@gmail.com,Second,User,9866467899,user,False

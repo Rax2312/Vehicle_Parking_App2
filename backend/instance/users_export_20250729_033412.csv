@@ -1,0 +1,4 @@
+ID,Username,Email,First Name,Last Name,Phone Number,Address,Role,Flagged
+1,admin,admin@gmail.com,Admin,User,9999999999,Admin Office,admin,False
+2,user1,tejasvini@gmail.com,First,User,7994786735,"123,Street Enclave, Lajpat Nagar, Delhi",user,False
+3,user2,user2@gmail.com,Second,User,9866467899,test 1234 two,user,False
